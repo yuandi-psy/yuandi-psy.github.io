@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://yuandi-psy.github.io/file/cv.pdf).
+[Download CV here](http://yuandi-psy.github.io/files/cv.pdf).
