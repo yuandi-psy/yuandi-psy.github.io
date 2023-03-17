@@ -16,7 +16,7 @@ author_profile: true
 
 5. **Yuan, D.**, Tian, H., Zhou, Y., Wu, J., Sun, T., Xiao, Z., ... & Tan, L. H.* (2021). Acupoint-brain (acubrain) mapping: common and distinct cortical language regions activated by focused ultrasound stimulation on two language-relevant acupoints. <i>Brain and Language</i>, 215, 104920.
 
-6. **Yuan, D.**, Zhang, R., Liu, J., Feng, D., Hu, Y., Li, X.*, ... & Zhou, X*. (2022). Interpersonal neural synchronization could predict the outcome of mate choice. <i>Neuropsychologia</i>, 165, 108112.
+6. **Yuan, D.**, Zhang, R., Liu, J., Feng, D., Hu, Y., Li, X.*, ... & Zhou, X *. (2022). Interpersonal neural synchronization could predict the outcome of mate choice. <i>Neuropsychologia</i>, 165, 108112.
 
 7. Zhu, Y., Xu, M., Lu, J., Hu, J., Kwok, V. P., Zhou, Y., **Yuan, D.**, Wu, B., Zhang, J., Wu, J. & Tan, L. H.* (2022). Distinct spatiotemporal patterns of syntactic and semantic processing in human inferior frontal gyrus. <i>Nature Human Behaviour</i>, 6(8), 1104-1111.
 

@@ -44,5 +44,8 @@ Please find more details in the following articles:
 Microstructure of the human brain
 ======
 
-To be updated...
+Quantitative MRI (qMRI) estimate the brain macromolecular tissue volume (MTV) and quantitative longitudinal relxation time (T1) maps. These two measurements reflect cortical myeloarchitecture mapping from the microstructural perspective. I used this technique to examine the interhemispheric asymmetries in language-related regions in over one hundred adults. I found that the cortical myeloarchitecture of the inferior frontal areas is left lateralized, while that of the superior and middle temporal gyrus is right lateralized. Moreover, the leftward lateralization is associated with metalanguage skills. This study reveals for the first time a mixed pattern of myeloarchitectonic asymmetries, which calls for a general theory to accommodate the full complexity of principles underlying human hemispheric specialization.
+
+In another project, I studied if exercise affects cortical structural palsticity at the fine-grainded myelination structure level. To this end, I compared the microstructrual cortical features between elite golf players and non-athelet control subjects. It revealed that microstructure of the left temporal pole in the golf players was better proliferated than that of control subjects. Besides, this myeloarchitectonic plasticity was positively related to golfing proficiency. This study has manifested that myeloarchitectonic plasticity could be induced by exercise, and thus, shed light on the potential benefits of exercise on brain health and cognitive enhancement.
+
 
