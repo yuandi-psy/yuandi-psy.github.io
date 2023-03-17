@@ -7,6 +7,7 @@ author_profile: true
 
 Brain and Auditory Input in Children with Hearing Loss
 ======
+
 **The role of brain plasticity in auditory and langauge development.**
 Childhood is considered a sensitive period of development. Within a certain time window, children’s developmental processes are very sensitive to experience and, meanwhile, their brains adapt rapidly in response to environment by reorganizing their structure and function. The sensitive developmental process and the adaptive brain (also known as brain plasticity) not only bring children opportunities to develop, but also result in increased vulnerabilities. In other words, children with adequate environmental support develop rapidly, while those who lack support fall behind their age mates or even show a permanent delay.
 
@@ -25,7 +26,7 @@ Please find more details in the following articles:
 
 Since the human brain can be modulated by personal experience, the brain function and anatomy can reflect a summation of modulation through various environmental factors and serves as a relatively objective factor to predict individual development. Therefore, I am also trying to build a model using neural factors to predict the speech and language development in children with cochlear implants. I hope the model could identify the ones who may receive limited benefit from cochlear implants, so that parents and clinicians can offer necessary interventions beforehand. 
 
----
+
 Social interactive behaviors
 ======
 
@@ -39,9 +40,9 @@ Please find more details in the following articles:
 
 [Interpersonal neural synchronization could predict the outcome of mate choice.](https://www.sciencedirect.com/science/article/pii/S0028393221003651?via%3Dihub)
 
----
-Microstructure of the human brain
 
+Microstructure of the human brain
 ======
+
 To be updated...
----
+
