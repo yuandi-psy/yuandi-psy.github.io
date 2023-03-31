@@ -8,7 +8,7 @@ author_profile: true
 
 1.  **Yuan, D.**, Tournis, E., Ryan, M. E., Lai, E., Geng, X., Young, N. M.*, & Wong, P. (2022, November 28). The Degree of Hearing Loss Moderates the Benefit of Amplification in Preventing Children’s Cortical Structural Changes. <i>Retrieved from psyarxiv.com/nea72</i>
 
-2. **Yuan, D.**, Ng, I., Feng, G., Chang, W-T., Tong, M., Young, N., Wong, P.* (2022). The Amount of Hearing Input Affects the Plasticity of Auditory Cortex in Children with Hearing-loss: A Preliminary Study. (Accepted)
+2. **Yuan, D.**, Ng, I. H. Y., Feng, G., Chang, W.T., Tong, M. C. F., Young, N., Wong, P. C. M. (in press) The Extent of Hearing Input Affects the Plasticity of the Auditory Cortex in Children With Hearing Loss: A Preliminary Study. <i>American Journal of Audiology<i>.
 
 3. Shao, X., Luo, D., Zhou, Y., Xiao, Z., Wu, J., Tan, L. H., ... & **Yuan, D.*** (2022). Myeloarchitectonic Plasticity in Elite Golf Players' Brains. <i>Human Brain Mapping</i>, 43(11), 3461-3468.
 
