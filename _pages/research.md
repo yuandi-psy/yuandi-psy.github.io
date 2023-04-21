@@ -22,7 +22,7 @@ Please find more details in the following articles:
 
 1. [The Degree of Hearing Loss Moderates the Benefit of Amplification in Preventing Children’s Cortical Structural Changes.](https://psyarxiv.com/nea72)
 
-2. The Amount of Hearing Input Affects the Plasticity of Auditory Cortex in Children with Hearing-loss: A Preliminary Study. (Will be available soon.)
+2. [The Amount of Hearing Input Affects the Plasticity of Auditory Cortex in Children with Hearing-loss: A Preliminary Study.](https://pubs.asha.org/doi/10.1044/2023_AJA-22-00172)
 
 Since the human brain can be modulated by personal experience, the brain function and anatomy can reflect a summation of modulation through various environmental factors and serves as a relatively objective factor to predict individual development. Therefore, I am also trying to build a model using neural factors to predict the speech and language development in children with cochlear implants. I hope the model could identify the ones who may receive limited benefit from cochlear implants, so that parents and clinicians can offer necessary interventions beforehand. 
 
