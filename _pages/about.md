@@ -14,4 +14,4 @@ In addition to my work in speech and language development, I am also interested 
 
 Thank you for taking the time to visit my website. Please feel free to explore my research and do not hesitate to reach out if you have any questions or would like to collaborate.
 
-*updated on March 16th, 2024*
+*[updated on March 16th, 2024]*
