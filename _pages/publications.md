@@ -39,18 +39,23 @@ The detection technique, system and storage medium of hemispheric asymmetry (She
 
 --- 
 **CONFERENCE PRESENTATIONS**
+1. **Yuan, D.**, Xu, E., NG, I., Chang, W.T., Tong, M., Young, N., Wong, P. (2024). Preoperative Neuroanatomical Features Outperform Non-Neural Features in Predicting Auditory Skills in Chinese-Learning Children with Cochlear Implants. CI2024. July, Vancouver, BC.
 
-1. **Yuan, D.**, Tournis, E., Ryan, M.E., Lai, C.M., Geng,X., Young, N., Wong, P. (2023). The Degree of Hearing Loss Moderates the Benefit of Pre-operative Hearing Aid Use in Preserving Children’s Auditory Cortex. CI2023. June, Dallas, Texas.
+2. **Yuan, D.**, Young, NM., Wong, P. (2023). Preoperative Neuroanatomical Differences Predict Speech Development in Children with Cochlear Implants: Cross-Validation and Preliminary External Validation. 14th Asia Pacific Symposium on Cochlear Implant and Related Sciences, November, Coex Seoul, Korea.
+ 
+3. **Yuan, D.**, Young, NM., Wong, P. (2023). Preoperative Neural Networks Predict Children’s Speech and Language Improvement 24 Months After Cochlear Implantation. Society for the Neurobiology of Language 15th Annual Meeting, October, Marseilles, France.
 
-2. **Yuan, D.**, NG, I., Chang, W.T., Chu, W., YOUNG, N., Wong, P . (2022). Extent of Hearing Loss, Pre-operative Hearing Aid Use and Cortical Structural Alteration in Pediatric Cochlear Implant Candidates. Neuroscience 2022. November, San Diego, California.
+4. **Yuan, D.**, Tournis, E., Ryan, M.E., Lai, C.M., Geng,X., Young, N., Wong, P. (2023). The Degree of Hearing Loss Moderates the Benefit of Pre-operative Hearing Aid Use in Preserving Children’s Auditory Cortex. CI2023. June, Dallas, Texas.
 
-3. **Yuan, D.**, Li, X. (2018). Interpersonal neural synchronization as a neural signature of outcome of mate choice. fNIRS 2018. October, 2018, Tokyo, Japan.
+5. **Yuan, D.**, NG, I., Chang, W.T., Chu, W., YOUNG, N., Wong, P . (2022). Extent of Hearing Loss, Pre-operative Hearing Aid Use and Cortical Structural Alteration in Pediatric Cochlear Implant Candidates. Neuroscience 2022. November, San Diego, California.
 
-4. **Yuan, D.**, Li, X. (2017). Synchronous brain activity during cooperative reading depends on reciprocal attraction. 2nd Symposium on Inter-Brain Cognition. April, 2017, Shanghai, China. 
+6. **Yuan, D.**, Li, X. (2018). Interpersonal neural synchronization as a neural signature of outcome of mate choice. fNIRS 2018. October, 2018, Tokyo, Japan.
 
-5. **Yuan, D.**, Li, B. (2016). The effect of subliminal affective priming on directed forgetting. Shanghai Psychological Society. November, 2016, Shanghai, China.
+7. **Yuan, D.**, Li, X. (2017). Synchronous brain activity during cooperative reading depends on reciprocal attraction. 2nd Symposium on Inter-Brain Cognition. April, 2017, Shanghai, China. 
 
-6. **Yuan, D.**, Li, B. (2015). The effect of subliminal affective priming on directed forgetting. “Psychology for the 21st century” Undergraduate Academic Forum in Peking University. April, 2015, Beijing, China.
+8. **Yuan, D.**, Li, B. (2016). The effect of subliminal affective priming on directed forgetting. Shanghai Psychological Society. November, 2016, Shanghai, China.
+
+9. **Yuan, D.**, Li, B. (2015). The effect of subliminal affective priming on directed forgetting. “Psychology for the 21st century” Undergraduate Academic Forum in Peking University. April, 2015, Beijing, China.
 
 
 
