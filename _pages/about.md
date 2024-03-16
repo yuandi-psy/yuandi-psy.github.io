@@ -13,3 +13,5 @@ Hello! I am a Ph.D. Candidate working under the supervision of [Prof. Patrick Wo
 In addition to my work in speech and language development, I am also interested in studying social interactive behaviors. I use a novel techinque called hyperscanning to record the neural activity from multiple brains simultaneously under natural social interactive conditions. This approach provides insights into the inter-brain mechanism of human social behaviors.
 
 Thank you for taking the time to visit my website. Please feel free to explore my research and do not hesitate to reach out if you have any questions or would like to collaborate.
+
+*updated on March 16th, 2024*
