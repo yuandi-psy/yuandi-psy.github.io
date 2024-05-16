@@ -20,7 +20,7 @@ These findings underscore the importance of early intervention and fitting of he
 
 Please find more details in the following articles:
 
-1. [The Degree of Hearing Loss Moderates the Benefit of Amplification in Preventing Children’s Cortical Structural Changes.](https://psyarxiv.com/nea72)
+1. [Early-stage use of hearing aids preserves auditory cortical structure in children with sensorineural hearing loss.](https://academic.oup.com/cercor/article/34/4/bhae145/7644535?login=true)
 
 2. [The Amount of Hearing Input Affects the Plasticity of Auditory Cortex in Children with Hearing-loss: A Preliminary Study.](https://pubs.asha.org/doi/10.1044/2023_AJA-22-00172)
 
