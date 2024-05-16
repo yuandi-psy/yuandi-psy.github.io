@@ -6,9 +6,9 @@ author_profile: true
 ---
 **JOURNAL ARTICLES**
 
-1.  **Yuan, D.**, Tournis, E., Ryan, M. E., Lai, E., Geng, X., Young, N. M.*, & Wong, P. (2022, November 28). The Degree of Hearing Loss Moderates the Benefit of Amplification in Preventing Children’s Cortical Structural Changes. <i>Retrieved from psyarxiv.com/nea72</i>
+1.  **Yuan, D.**, Tournis, E., Ryan, M. E., Lai, C. M., Geng, X., Young, N. M., & Wong, P. C. (2024). Early-stage use of hearing aids preserves auditory cortical structure in children with sensorineural hearing loss. <i>Cerebral Cortex<i>, 34(4), bhae145. 
 
-2. **Yuan, D.**, Ng, I. H. Y., Feng, G., Chang, W.T., Tong, M. C. F., Young, N., Wong, P. C. M. (in press) The Extent of Hearing Input Affects the Plasticity of the Auditory Cortex in Children With Hearing Loss: A Preliminary Study. <i>American Journal of Audiology<i>.
+2. **Yuan, D.**, Ng, I. H. Y., Feng, G., Chang, W. T., Tong, M. C., Young, N. M., & Wong, P. C. (2023). The Extent of Hearing Input Affects the Plasticity of the Auditory Cortex in Children With Hearing Loss: A Preliminary Study. <i>American Journal of Audiology<i>, 32(2), 379-390.
 
 3. Shao, X., Luo, D., Zhou, Y., Xiao, Z., Wu, J., Tan, L. H., ... & **Yuan, D.*** (2022). Myeloarchitectonic Plasticity in Elite Golf Players' Brains. <i>Human Brain Mapping</i>, 43(11), 3461-3468.
 
