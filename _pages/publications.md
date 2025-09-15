@@ -6,8 +6,7 @@ author_profile: true
 ---
 **JOURNAL ARTICLES**
 
-1. **Yuan, D.**, Chan, J., Shoaib, Z., Chan, K.-Y., Kielman, A., Wong, P.C.M. (Under Review). The Social Nature of Music: Interpersonal Neural Coupling in Asymmetrical and Symmetrical
-Musical Performance. <i>Neuroimage<i>.
+1. **Yuan, D.**, Chan, J., Shoaib, Z., Chan, K.-Y., Kielman, A., Wong, P.C.M. (Under Review). The Social Nature of Music: Interpersonal Neural Coupling in Asymmetrical and Symmetrical Musical Performance. <i>Neuroimage<i>.
 
 2. Wang, Y. #, **Yuan, D.** #, Dettman, S., Choo, D,. Xu, S. E., Thomas, D., Ryan, M. E., Wong, P.C.M., Young, N.M. (Under Review). Neural Prediction of Spoken Language Improvements in Children with Cochlear Implants: A Multicenter Study. <i>JAMA Otolaryngology–Head & Neck Surgery<i>.
 
