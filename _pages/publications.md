@@ -17,13 +17,13 @@ Using Preoperative Brain Imaging. <i>American Journal of Audiology<i>.
 
 5. **Yuan, D.**, Ng, I. H. Y., Feng, G., Chang, W. T., Tong, M. C., Young, N. M., & Wong, P. C. (2023). The Extent of Hearing Input Affects the Plasticity of the Auditory Cortex in Children With Hearing Loss: A Preliminary Study. <i>American Journal of Audiology<i>, 32(2), 379-390.
 
-6. Shao, X., Luo, D., Zhou, Y., Xiao, Z., Wu, J., Tan, L. H., ... & **Yuan, D.*** (2022). Myeloarchitectonic Plasticity in Elite Golf Players' Brains. <i>Human Brain Mapping</i>, 43(11), 3461-3468.
+6. Shao, X., Luo, D., Zhou, Y., Xiao, Z., Wu, J., Tan, L. H., ... & **Yuan, D.*** (2022). Myeloarchitectonic Plasticity in Elite Golf Players' Brains. <i>Human Brain Mapping<i>, 43(11), 3461-3468.
 
-7. **Yuan, D.**, Luo, D., Kwok, V. P., Zhou, Y., Tian, H., Yu, Q., ... & Tan, L. H.* (2021). Myeloarchitectonic asymmetries of language regions in the human brain. <i>Cerebral Cortex</i>, 31(9), 4169-4179.
+7. **Yuan, D.**, Luo, D., Kwok, V. P., Zhou, Y., Tian, H., Yu, Q., ... & Tan, L. H.* (2021). Myeloarchitectonic asymmetries of language regions in the human brain. <i>Cerebral Cortex<i>, 31(9), 4169-4179.
 
-8. **Yuan, D.**, Tian, H., Zhou, Y., Wu, J., Sun, T., Xiao, Z., ... & Tan, L. H.* (2021). Acupoint-brain (acubrain) mapping: common and distinct cortical language regions activated by focused ultrasound stimulation on two language-relevant acupoints. <i>Brain and Language</i>, 215, 104920.
+8. **Yuan, D.**, Tian, H., Zhou, Y., Wu, J., Sun, T., Xiao, Z., ... & Tan, L. H.* (2021). Acupoint-brain (acubrain) mapping: common and distinct cortical language regions activated by focused ultrasound stimulation on two language-relevant acupoints. <i>Brain and Language<i>, 215, 104920.
 
-9. **Yuan, D.**, Zhang, R., Liu, J., Feng, D., Hu, Y., Li, X.*, ... & Zhou, X *. (2022). Interpersonal neural synchronization could predict the outcome of mate choice. <i>Neuropsychologia</i>, 165, 108112.
+9. **Yuan, D.**, Zhang, R., Liu, J., Feng, D., Hu, Y., Li, X.*, ... & Zhou, X *. (2022). Interpersonal neural synchronization could predict the outcome of mate choice. <i>Neuropsychologia<i>, 165, 108112.
 
 10. Zhu, Y., Xu, M., Lu, J., Hu, J., Kwok, V. P., Zhou, Y., **Yuan, D.**, Wu, B., Zhang, J., Wu, J. & Tan, L. H.* (2022). Distinct spatiotemporal patterns of syntactic and semantic processing in human inferior frontal gyrus. <i>Nature Human Behaviour</i>, 6(8), 1104-1111.
 
